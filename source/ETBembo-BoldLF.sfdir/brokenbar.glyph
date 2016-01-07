@@ -1,0 +1,21 @@
+StartChar: brokenbar
+Encoding: 272 166 19
+Width: 534
+Flags: MW
+HStem: -22 21G<231 231 231 306> 840 20G<231 306 306 306>
+VStem: 231 75<-22 370 -22 370 467 860>
+LayerCount: 2
+Fore
+SplineSet
+231 467 m 1
+ 231 860 l 1
+ 306 860 l 1
+ 306 467 l 1
+ 231 467 l 1
+231 -22 m 1
+ 231 370 l 1
+ 306 370 l 1
+ 306 -22 l 1
+ 231 -22 l 1
+EndSplineSet
+EndChar
